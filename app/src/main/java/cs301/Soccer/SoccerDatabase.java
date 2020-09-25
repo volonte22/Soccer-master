@@ -35,7 +35,7 @@ public class SoccerDatabase implements SoccerDB {
         return false;
     }
 
-    
+
     /**
      * remove a player
      *
